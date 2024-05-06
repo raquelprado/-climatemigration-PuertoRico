@@ -36,37 +36,37 @@ Additionally, I analyzed the social vulnerability in Puerto Rico using data from
 
 The initial analysis delved into internal displacement data in Puerto Rico, focusing specifically on displacements caused by weather-related events. The analysis, represented through line and bar graphs, highlights the trends and annual comparisons of displacements. Notably, the data shows a significant spike in displacements in 2017, which is attributed to the devastating impact of Hurricane Maria. This peak in displacements is expected given the severity of the storm. However, it's concerning that the data also indicates a gradual increase in displacements over the subsequent years. This trend suggests a persistent vulnerability to weather-related events, underscoring the need for ongoing attention to resilience and preparedness measures in the region.
 
-![alt text](total_displacements_by_year_line.png)
-![alt text](total_displacements_by_year_bar.png)
+![Image 1](https://github.com/raquelprado/-climatemigration-PuertoRico/blob/main/Images%20/total_displacements_by_year_line.png?raw=true)
+![Image 2](https://github.com/raquelprado/-climatemigration-PuertoRico/blob/main/Images%20/total_displacements_by_year_bar.png?raw=true)
+
 
 Secondly, I expanded my analysis beyond internal displacements to also consider the outflow migration from Puerto Rico. Utilizing data from the US Census Bureau, I analyzed the trends in migration between 2020 and 2023. Although these figures aren't specifically linked to weather-related events or natural disasters, the analysis revealed a noticeable decrease in the total population, which is intensifying significantly over this period. Factors such as the pursuit of higher education, better job opportunities, and improved quality of life likely contribute to this trend, yet the data points to a considerable population decline within just a three-year span. 
 
-![alt text](line_graph_change_pop_pr_2020_2023-1.png)
-![alt text](Population_Change_Puerto_Rico.png)
+![image 3](https://github.com/raquelprado/-climatemigration-PuertoRico/blob/main/Images%20/line_graph_change_pop_pr_2020_2023.png?raw=true)
+![image 4](https://github.com/raquelprado/-climatemigration-PuertoRico/blob/main/Images%20/Population_Change_Puerto_Rico.png?raw=true)
 
 Subsequently, using the Community Resilience Estimates for Puerto Rico, I generated maps to illustrate the social vulnerability across various counties on the island. These maps clearly delineated areas categorized by different levels of risk factors—0, 1-2, and 3 or more—highlighting which communities are more likely to be resilient or vulnerable to natural hazards and disasters. This visualization helps identify regions where social vulnerability may impact the ability to respond to and recover from such events. 
 
 Interestingly, in these maps, I specifically highlighted the five most populous counties in Puerto Rico. It was notable that these more populous counties appeared to be more resilient to natural disasters and hazards, supporting the notion that there is significant disparity in disaster preparedness and infrastructure across Puerto Rican counties. This observation suggests that while some regions benefit from better resources and planning, others remain acutely vulnerable, indicating a crucial need for targeted improvements in disaster resilience strategies across the island..
 
-![alt text](Social_vulnerability_map_puerto_Rico.jpg)
+![map 1](https://github.com/raquelprado/-climatemigration-PuertoRico/blob/main/Images%20/Social_vulnerability_map_puerto_Rico.jpg?raw=true)
 
 
 The final map produced focused on illustrating regions in Puerto Rico with three or more risk factors, specifically emphasizing the five poorest counties. Additionally, this map incorporated flood zone layers to identify areas susceptible to flooding and to determine the overlap between these zones and regions with high vulnerability indicators. The expectation was that the poorest counties, characterized by significant risk factors, would also coincide with high flood risk areas, suggesting a compounded vulnerability to natural disasters.
 
 However, the mapping analysis revealed a counterintuitive pattern: the majority of flood-prone areas were actually in more affluent counties, notably near San Juan, the capital and a wealthier urban center. This suggests that while the poorest counties are indeed vulnerable to disasters due to socio-economic factors, the geographic distribution of flood risks primarily affects more affluent regions. The findings indicate that mobility in response to flood risks is often a privilege of those with higher incomes and better resources, highlighting a disparity in vulnerability and resilience across different socioeconomic groups in Puerto Rico. This nuanced understanding helps refine emergency preparedness and urban planning strategies to address the specific needs of both economically disadvantaged and affluent communities.
 
-![alt text](3Risk_flood_zone_layer_PR1.jpg)
-
+![map 2](https://github.com/raquelprado/-climatemigration-PuertoRico/blob/main/Images%20/3Risk_flood_zone_layer_PR1.jpg?raw=true)
 
 
 Following the mapping analysis, I delved deeper into the distribution of risk factors across Puerto Rico to gain a clearer understanding of the regional disparities in vulnerability. The analysis revealed that a mere 14.74% of the total population is without any risk factors, suggesting a relatively low level of baseline resilience. Conversely, 39.19% of the population has 1-2 risk factors, and a significant 46.07% are burdened with 3 or more risk factors, underscoring a widespread vulnerability to natural disasters and hazards throughout the island.
 
-![alt text](Percentage_Risk_Factors_All_Puerto_Rico.png)
+![image 5](https://github.com/raquelprado/-climatemigration-PuertoRico/blob/main/Images%20/Percentage_Risk_Factors_All_Puerto_Rico.png?raw=true)
 
 The situation is particularly acute in the five poorest counties, where it was anticipated that a higher percentage of the population would exhibit 3 or more risk factors and a correspondingly lower percentage would have no risk factors. Indeed, the findings confirm this hypothesis, indicating that these areas are at an increased risk of suffering disproportionately during natural disasters due to their compounded socio-economic challenges.
 
 
-![alt text](Percentage_Risk_Factors_Poorest_Counties_PR.png)
+![image 6](https://github.com/raquelprado/-climatemigration-PuertoRico/blob/main/Images%20/Percentage_Risk_Factors_Poorest_Counties_PR.png?raw=true)
 
 
 ## Final Considerations
